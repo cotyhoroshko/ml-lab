@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5735ed3a-b2e6-4358-96a7-6aad8c9e3f7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caffe_to_keras.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/cifar.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/cifar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/models/cifar/resenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/models/cifar/resenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/models/cifar/resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/models/cifar/resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/models/cifar/se_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/models/cifar/se_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/models/cifar/seresnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1-2/Res-SE-Net/models/cifar/seresnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test-volume.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/0_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/10_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/11_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/12_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/13_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/14_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/15_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/16_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/17_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/18_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/19_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/1_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/20_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/21_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/22_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/23_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/24_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/25_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/26_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/27_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/28_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/29_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/2_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/3_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/4_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/5_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/6_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/7_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/8_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/test/9_predict.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train-labels.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train-volume.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_0_6144147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_0_9312159.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_10_4725015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_10_6658724.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_11_7305766.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_11_9762238.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_12_4186302.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_12_4486064.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_13_3027714.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_13_8372481.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_14_3602105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_14_8620165.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_15_7797249.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_15_7856748.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_16_7404918.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_16_9397072.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_17_3911616.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_17_5677330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_18_1533065.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_18_7670894.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_19_2043583.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_19_5366147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_1_9323655.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_1_9353417.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_20_3601991.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_20_7053067.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_21_3732585.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_21_8506147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_22_1880892.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_22_2808126.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_23_833746.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_23_9704808.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_24_7854683.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_24_7890115.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_25_32689.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_25_6277072.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_26_3928388.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_26_8717052.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_27_1760328.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_27_2952813.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_28_1813420.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_28_3604435.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_29_6023041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_29_8617811.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_2_4218729.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_2_4242621.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_3_3355733.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_3_6123244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_4_4272795.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_4_9292489.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_5_2683761.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_5_555502.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_6_5544540.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_6_5592345.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_7_236371.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_7_9599882.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_8_3936874.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_8_4974953.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_9_6936014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/image_9_7535981.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_0_6144147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_0_9312159.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_10_4725015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_10_6658724.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_11_7305766.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_11_9762238.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_12_4186302.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_12_4486064.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_13_3027714.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_13_8372481.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_14_3602105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_14_8620165.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_15_7797249.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_15_7856748.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_16_7404918.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_16_9397072.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_17_3911616.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_17_5677330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_18_1533065.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_18_7670894.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_19_2043583.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_19_5366147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_1_9323655.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_1_9353417.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_20_3601991.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_20_7053067.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_21_3732585.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_21_8506147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_22_1880892.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_22_2808126.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_23_833746.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_23_9704808.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_24_7854683.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_24_7890115.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_25_32689.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_25_6277072.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_26_3928388.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_26_8717052.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_27_1760328.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_27_2952813.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_28_1813420.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_28_3604435.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_29_6023041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_29_8617811.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_2_4218729.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_2_4242621.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_3_3355733.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_3_6123244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_4_4272795.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_4_9292489.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_5_2683761.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_5_555502.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_6_5544540.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_6_5592345.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_7_236371.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_7_9599882.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_8_3936874.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_8_4974953.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_9_6936014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/aug/mask_9_7535981.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/image/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/data/membrane/train/label/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/dataPrepare.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/img/0label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/img/0test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/img/u-net-architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_1-2/unet/trainUnet.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WXUkJsVQulJDnIXom5AnBzl1Kp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/anmrut/Documents/politex/ml/keras-unet&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anmrut\Documents\politex\ml\ml-lab" />
+      <recent name="C:\Users\anmrut\Documents\politex\ml\ml-lab\outliers_doc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anmrut\Documents\politex\ml\ml-lab" />
+      <recent name="C:\Users\anmrut\Documents\politex\ml\ml-lab\Caffe2Pytorch" />
+      <recent name="C:\Users\anmrut\Documents\politex\ml\ml-lab\lab2" />
+      <recent name="C:\Users\anmrut\Documents\politex\ml\ml-lab\lab1\data" />
+      <recent name="C:\Users\anmrut\Documents\politex\ml\ml-lab\build" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ml-lab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\anmrut\Documents\politex\ml\ml-lab\lab1\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5735ed3a-b2e6-4358-96a7-6aad8c9e3f7e" name="Changes" comment="" />
+      <created>1696878560379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696878560379</updated>
+      <workItem from="1696878564112" duration="210000" />
+      <workItem from="1696878790560" duration="944000" />
+      <workItem from="1697051251582" duration="1819000" />
+      <workItem from="1697453025224" duration="14399000" />
+      <workItem from="1697606586552" duration="11421000" />
+      <workItem from="1698071103064" duration="1307000" />
+      <workItem from="1698404985024" duration="2544000" />
+      <workItem from="1698515684673" duration="1690000" />
+      <workItem from="1700399851972" duration="6668000" />
+      <workItem from="1700995400256" duration="197000" />
+      <workItem from="1700995645824" duration="2812000" />
+      <workItem from="1702448487140" duration="6000" />
+      <workItem from="1702708643503" duration="3097000" />
+      <workItem from="1702712614979" duration="5063000" />
+      <workItem from="1702792197766" duration="6635000" />
+      <workItem from="1703016435712" duration="985000" />
+      <workItem from="1703062417092" duration="5875000" />
+      <workItem from="1703152530108" duration="1793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

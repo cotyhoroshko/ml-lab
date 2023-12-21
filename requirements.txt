@@ -1,9 +1,0 @@
-jupyterlab
-pandas
-keras
-tensorflow
-statsmodels
-matplotlib
-sklearn
-scikit-learn
-seaborn

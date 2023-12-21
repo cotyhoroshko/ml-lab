@@ -1,0 +1,10 @@
+# jupyterlab
+pandas
+matplotlib
+scikit-image
+keras
+tensorflow
+# statsmodels
+# sklearn
+# scikit-learn
+# seaborn

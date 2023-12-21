@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab_1-2/CNNDesignPatterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab_1-2/Res-SE-Net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab_1-2/keras-unet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab_1-2/unet" vcs="Git" />
+  </component>
+</project>
